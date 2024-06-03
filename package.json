@@ -1,0 +1,28 @@
+{
+  "name": "colorify-log",
+  "version": "1.0.0",
+  "description": "A Library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioumesh/colorify-log"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Umesh Kumar",
+  "license": "MIT",
+  "homepage": "https://github.com/ioumesh/colorify-log#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}

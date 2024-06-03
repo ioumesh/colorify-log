@@ -1,5 +1,5 @@
 {
-  "name": "colorify-log",
+  "name": "colorifi-log",
   "version": "1.0.0",
   "description": "A Library to colorify your console logs",
   "main": "lib/index.js",
